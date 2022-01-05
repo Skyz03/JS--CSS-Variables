@@ -1,8 +1,12 @@
+// Need to have css variables to change them as SASS variables won't work as they are generated during the compile time
+
 :root {
   --base: #ffc600;
   --spacing: 10px;
-  --blur: 10px;
+  --blur: 10px; // The variables of the change
 }
+
+// These are declared with the variables means they are going to change into when input change.
 
 img {
   padding: var(--spacing);
