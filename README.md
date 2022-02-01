@@ -56,6 +56,7 @@ Can implement this in many places ==> plus use of local storage I think.
 
 ## Screenshots
 
+![image](https://user-images.githubusercontent.com/42742924/152012492-e48b0802-a919-4015-896b-1153c1d93c7d.png)
 
 ## Tech Stack
 
